@@ -8,7 +8,4 @@ while flag:
         case _:
             nums.append(num)
 status = ["even" if x % 2 == 0 else "odd" for x in nums]
-print("\nEven or odd status for other numbers : ")
-if status is not None:
-    for x, y in zip(nums, status):
-        print(f"{x} is a {y} number")
+print(f"There are {status.count('even')} even numbers and {status.count('odd')} odd numbers")
