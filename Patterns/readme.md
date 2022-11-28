@@ -1,4 +1,4 @@
-
+# Python Patterns
 01. Write a program to sum the series
 
     i. 1<sup>2</sup> /1 + 2<sup>2</sup> / 2 + 3<sup>2</sup> / 3+.......... n<sup>2</sup> /n.<br>
