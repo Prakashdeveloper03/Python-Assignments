@@ -41,19 +41,13 @@ month.
 
 07.  Write a program to read a 5-digit number and then display the number in the following
 formats...for example, if the user entered 12345, the result should be
+
 ```
-12345
-2345
-345
-45
-5
-```
-```
-    1
-   12
-  123
- 1234
-12345
+12345   1
+ 2345   12
+  345   123
+   45   1234
+    5   12345
 ```
 
 08.  Write a simple python program the displays the following powers of 2, one per line: 2<sup>1</sup>, 2<sup>2</sup>, 2<sup>3</sup>, 2<sup>4</sup>, 2<sup>5</sup>, 2<sup>6</sup>, 2<sup>7</sup>, 2<sup>8</sup>.

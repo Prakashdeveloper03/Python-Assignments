@@ -1,8 +1,4 @@
-num = str(input('Enter the number: '))
-length = len(str(num))
- 
+num = input("Enter the number : ")
+length = len(num)
 for i in range(length):
-    right = num[:i + 1]
-    left_value = num[i:length]
-    left = f"{left_value:>{length}}"
-    print(left, right, sep='\t' )
+    print(f"{num[i:length]:>{length}}", num[: i + 1], sep="\t")
