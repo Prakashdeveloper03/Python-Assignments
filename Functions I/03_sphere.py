@@ -2,7 +2,7 @@ from math import pi
 from typing import Tuple
 
 
-def sphere(radius: float) -> Tuple[float]:
+def sphere(radius: float) -> Tuple[float, float]:
     return 4 * pi * radius**2, (4 / 3) * (pi * radius**3)
 
 
