@@ -18,8 +18,7 @@ use built in function `count`.
 8. Write a program to reverse a string.
 9. Write a program to remove the characters which have odd index values of a
 given string.
-10.  Write a program to check whether a string is a palindrome is a palindrome or
-not.
+10.  Write a program to check whether a string is a palindrome or not.
 11.  Write a program to read a name and then display it in abbreviated form like
 David Johnson should be displayed as DJ.
 12.  Write a python command to print
